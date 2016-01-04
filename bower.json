@@ -26,7 +26,7 @@
     "dependencies": {
         "jquery": "~2.1.1",
         "angular": "~1.3.4",
-        "fancybox-plus": "~1.3.6"
+        "fancybox": "https://github.com/ItsMePN/fancybox.git#32cf659eacc97ebc6977a7463c5e2368a1bf11bb"
     },
     "devDependencies": {
     },
