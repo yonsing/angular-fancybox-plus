@@ -35,7 +35,7 @@
     "dependencies": {
         "jquery": ">=2.1.4",
         "angular": "~1.3.4",
-        "fancybox": "https://github.com/ItsMePN/fancybox.git#32cf659eacc97ebc6977a7463c5e2368a1bf11bb"
+        "fancybox-plus": "https://github.com/yonsing/fancybox-plus.git#4de50273e5d001e909d641cb9c23a5fd73568a19"
     },
     "devDependencies": {
         "grunt": "^0.4.5",
